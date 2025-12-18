@@ -16,7 +16,7 @@
 
 - 🌱 Learning **Node.js, Express.js, React**
 - 💬 Ask me about **PHP, MySQL, REST API**
-- 📫 Reach me at: **nabin9930email@gmail.com**
+- 📫 Reach me at: **nabin9330email@gmail.com**
 
 ---
 
