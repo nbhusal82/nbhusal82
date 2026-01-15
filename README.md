@@ -44,13 +44,7 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nbhusal82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbhusal82&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617" height="150" />
-</p>
 
----
 
 ### 🌐 Connect with Me
 <p align="left">
