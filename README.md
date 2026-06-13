@@ -17,7 +17,7 @@
         <li>🔭 I’m currently working on <b>Full Stack Web Applications</b></li>
         <li>🌱 Learning <b>Node.js, Express.js, & React</b></li>
         <li>💬 Ask me about <b>PHP, MySQL, & REST API</b></li>
-        <li>📫 Reach me at: <b>nabin9330email@gmail.com</b></li>
+        <li>📫 Reach me at: <b>nabin9330@gmail.com</b></li>
         <li>⚡ Fun Fact: <b>I build better in Dark Mode 🌙</b></li>
       </ul>
     </td>
